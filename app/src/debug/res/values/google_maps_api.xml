@@ -1,0 +1,6 @@
+<resources>
+    <!--
+    Go to google developers account, create key and add here
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">ADD_KEY</string>
+</resources>
